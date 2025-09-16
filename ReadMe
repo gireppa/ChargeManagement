@@ -1,0 +1,20 @@
+---
+## How to Run
+Pre-requisite
+- Unzip the project folder.
+- Ensure **Java 24** (or higher) is installed.
+- Import the project into your IDE (Eclipse, IntelliJ, or VS Code with Java plugin).
+
+### Step 1: Install Java 24
+Navigate to the **main class** (ChargingSchedulerMain.java), right-click, and select **Run As → Java Program**.
+
+### Step 2: Run with different inputs
+Open ChargingSchedulerMain.java and modify the trucks, chargers, or hours** in the `main()` method to test different scenarios.
+Right-click and run again.
+
+### Step 3: Run test cases
+Go to ChargingSchedulerTest.java under src/test/.
+Right-click and select **Run As → JUnit Test** to execute the test cases.
+Modify/add tests to validate different scenarios.
+
+---
